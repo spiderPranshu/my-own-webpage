@@ -1,0 +1,28 @@
+h1{
+    color:orange
+}
+.header{
+    background-color: orangered;
+    display:flex;
+    justify-content: space-between ;
+}
+.site-description{
+display: flex;
+flex-direction: column;
+justify-content: first baseline;
+
+}
+p{
+    color: rgb(64, 116, 230);
+}
+.grid{
+    display: flex;
+   
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+p,h2{
+    text-align: left;
+}
